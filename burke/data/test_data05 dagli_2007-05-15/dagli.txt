@@ -1,0 +1,154 @@
+<polygons>
+		<polygon id="polygon0" nVertices="4">
+			<lines>
+				<segment n="1" x0="  0.0" x1="200.0" y0="  0.0" y1="  0.0" />
+				<segment n="2" x0="200.0" x1="200.0" y0="  0.0" y1=" 60.0" />
+				<segment n="3" x0="200.0" x1="  0.0" y0=" 60.0" y1=" 60.0" />
+				<segment n="4" x0="  0.0" x1="  0.0" y0=" 60.0" y1="  0.0" />
+			</lines>
+			<xMin>0</xMin>
+			<xMax>200</xMax>
+			<yMin>0</yMin>
+			<yMax>60</yMax>
+		</polygon>
+		<polygon id="polygon1" nVertices="8">
+			<lines>
+				<segment n="1" x0="  0.0" x1="  1.0" y0="  8.0" y1="  7.0" />
+				<segment n="2" x0="  1.0" x1="  7.0" y0="  7.0" y1="  5.0" />
+				<segment n="3" x0="  7.0" x1=" 12.0" y0="  5.0" y1="  0.0" />
+				<segment n="4" x0=" 12.0" x1=" 15.0" y0="  0.0" y1="  3.0" />
+				<segment n="5" x0=" 15.0" x1=" 10.0" y0="  3.0" y1="  8.0" />
+				<segment n="6" x0=" 10.0" x1=" 11.0" y0="  8.0" y1="  9.0" />
+				<segment n="7" x0=" 11.0" x1="  1.0" y0="  9.0" y1="  9.0" />
+				<segment n="8" x0="  1.0" x1="  0.0" y0="  9.0" y1="  8.0" />
+			</lines>
+			<xMin>0</xMin>
+			<xMax>15</xMax>
+			<yMin>0</yMin>
+			<yMax>9</yMax>
+		</polygon>
+		<polygon id="polygon2" nVertices="9">
+			<lines>
+				<segment n="1" x0="  2.0" x1="  0.0" y0=" 12.0" y1="  0.0" />
+				<segment n="2" x0="  0.0" x1="  4.0" y0="  0.0" y1="  0.0" />
+				<segment n="3" x0="  4.0" x1="  4.0" y0="  0.0" y1="  1.0" />
+				<segment n="4" x0="  4.0" x1="  5.0" y0="  1.0" y1="  1.0" />
+				<segment n="5" x0="  5.0" x1="  5.0" y0="  1.0" y1="  0.0" />
+				<segment n="6" x0="  5.0" x1="  9.0" y0="  0.0" y1="  0.0" />
+				<segment n="7" x0="  9.0" x1="  9.0" y0="  0.0" y1="  2.0" />
+				<segment n="8" x0="  9.0" x1="  5.0" y0="  2.0" y1=" 12.0" />
+				<segment n="9" x0="  5.0" x1="  2.0" y0=" 12.0" y1=" 12.0" />
+			</lines>
+			<xMin>0</xMin>
+			<xMax>9</xMax>
+			<yMin>0</yMin>
+			<yMax>12</yMax>
+		</polygon>
+		<polygon id="polygon3" nVertices="8">
+			<lines>
+				<segment n="1" x0="  2.0" x1="  0.0" y0=" 24.0" y1=" 18.0" />
+				<segment n="2" x0="  0.0" x1="  0.0" y0=" 18.0" y1="  6.0" />
+				<segment n="3" x0="  0.0" x1="  2.0" y0="  6.0" y1="  0.0" />
+				<segment n="4" x0="  2.0" x1="  9.0" y0="  0.0" y1="  0.0" />
+				<segment n="5" x0="  9.0" x1=" 11.0" y0="  0.0" y1="  6.0" />
+				<segment n="6" x0=" 11.0" x1=" 11.0" y0="  6.0" y1=" 18.0" />
+				<segment n="7" x0=" 11.0" x1="  9.0" y0=" 18.0" y1=" 24.0" />
+				<segment n="8" x0="  9.0" x1="  2.0" y0=" 24.0" y1=" 24.0" />
+			</lines>
+			<xMin>0</xMin>
+			<xMax>11</xMax>
+			<yMin>0</yMin>
+			<yMax>24</yMax>
+		</polygon>
+		<polygon id="polygon4" nVertices="4">
+			<lines>
+				<segment n="1" x0="  0.0" x1="  0.0" y0=" 15.0" y1="  0.0" />
+				<segment n="2" x0="  0.0" x1=" 14.0" y0="  0.0" y1="  0.0" />
+				<segment n="3" x0=" 14.0" x1=" 14.0" y0="  0.0" y1=" 15.0" />
+				<segment n="4" x0=" 14.0" x1="  0.0" y0=" 15.0" y1=" 15.0" />
+			</lines>
+			<xMin>0</xMin>
+			<xMax>14</xMax>
+			<yMin>0</yMin>
+			<yMax>15</yMax>
+		</polygon>
+		<polygon id="polygon5" nVertices="4">
+			<lines>
+				<segment n="1" x0="  0.0" x1="  9.0" y0="  0.0" y1="  0.0" />
+				<segment n="2" x0="  9.0" x1="  7.0" y0="  0.0" y1="  5.0" />
+				<segment n="3" x0="  7.0" x1="  2.0" y0="  5.0" y1="  5.0" />
+				<segment n="4" x0="  2.0" x1="  0.0" y0="  5.0" y1="  0.0" />
+			</lines>
+			<xMin>0</xMin>
+			<xMax>9</xMax>
+			<yMin>0</yMin>
+			<yMax>5</yMax>
+		</polygon>
+		<polygon id="polygon6" nVertices="7">
+			<lines>
+				<segment n="1" x0="  0.0" x1="  1.0" y0=" 32.0" y1="  3.0" />
+				<segment n="2" x0="  1.0" x1="  3.0" y0="  3.0" y1="  0.0" />
+				<segment n="3" x0="  3.0" x1="  6.0" y0="  0.0" y1="  1.0" />
+				<segment n="4" x0="  6.0" x1=" 11.0" y0="  1.0" y1=" 11.0" />
+				<segment n="5" x0=" 11.0" x1="  5.0" y0=" 11.0" y1=" 31.0" />
+				<segment n="6" x0="  5.0" x1="  2.0" y0=" 31.0" y1=" 33.0" />
+				<segment n="7" x0="  2.0" x1="  0.0" y0=" 33.0" y1=" 32.0" />
+			</lines>
+			<xMin>0</xMin>
+			<xMax>11</xMax>
+			<yMin>0</yMin>
+			<yMax>33</yMax>
+		</polygon>
+		<polygon id="polygon7" nVertices="5">
+			<lines>
+				<segment n="1" x0="  0.0" x1="  5.0" y0="  3.0" y1="  0.0" />
+				<segment n="2" x0="  5.0" x1=" 23.0" y0="  0.0" y1="  0.0" />
+				<segment n="3" x0=" 23.0" x1=" 13.0" y0="  0.0" y1="  5.0" />
+				<segment n="4" x0=" 13.0" x1="  1.0" y0="  5.0" y1="  5.0" />
+				<segment n="5" x0="  1.0" x1="  0.0" y0="  5.0" y1="  3.0" />
+			</lines>
+			<xMin>0</xMin>
+			<xMax>23</xMax>
+			<yMin>0</yMin>
+			<yMax>5</yMax>
+		</polygon>
+		<polygon id="polygon8" nVertices="10">
+			<lines>
+				<segment n="1" x0="  1.0" x1="  4.0" y0="  0.0" y1="  0.0" />
+				<segment n="2" x0="  4.0" x1="  5.0" y0="  0.0" y1="  6.0" />
+				<segment n="3" x0="  5.0" x1="  4.0" y0="  6.0" y1="  6.0" />
+				<segment n="4" x0="  4.0" x1="  4.0" y0="  6.0" y1="  5.0" />
+				<segment n="5" x0="  4.0" x1="  3.0" y0="  5.0" y1="  4.0" />
+				<segment n="6" x0="  3.0" x1="  2.0" y0="  4.0" y1="  4.0" />
+				<segment n="7" x0="  2.0" x1="  1.0" y0="  4.0" y1="  5.0" />
+				<segment n="8" x0="  1.0" x1="  1.0" y0="  5.0" y1="  6.0" />
+				<segment n="9" x0="  1.0" x1="  0.0" y0="  6.0" y1="  6.0" />
+				<segment n="10" x0="  0.0" x1="  1.0" y0="  6.0" y1="  0.0" />
+			</lines>
+			<xMin>0</xMin>
+			<xMax>5</xMax>
+			<yMin>0</yMin>
+			<yMax>6</yMax>
+		</polygon>
+		<polygon id="polygon9" nVertices="4">
+			<lines>
+				<segment n="1" x0="  0.0" x1="  1.0" y0="  2.0" y1="  0.0" />
+				<segment n="2" x0="  1.0" x1="  8.0" y0="  0.0" y1="  0.0" />
+				<segment n="3" x0="  8.0" x1="  6.0" y0="  0.0" y1="  3.0" />
+				<segment n="4" x0="  6.0" x1="  0.0" y0="  3.0" y1="  2.0" />
+			</lines>
+			<xMin>0</xMin>
+			<xMax>8</xMax>
+			<yMin>0</yMin>
+			<yMax>3</yMax>
+		</polygon>
+		<polygon id="polygon10" nVertices="3">
+			<lines>
+				<segment n="1" x0="  0.0" x1=" 14.0" y0="  0.0" y1="  0.0" />
+				<segment n="2" x0=" 14.0" x1="  5.0" y0="  0.0" y1="  6.0" />
+				<segment n="3" x0="  5.0" x1="  0.0" y0="  6.0" y1="  0.0" />
+			</lines>
+			<xMin>0</xMin>
+			<xMax>14</xMax>
+			<yMin>0</yMin>
+			<yMax>6</yMax>
